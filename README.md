@@ -1,4 +1,3 @@
-# teste_estagio_ruby_on_rails
 Teste para ser aplicado as vagas de Estágio Ruby on Rails
 
 ## Sistema de controle Bancário com Ruby on Rails.
